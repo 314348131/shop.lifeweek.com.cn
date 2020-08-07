@@ -1,0 +1,69 @@
+*{
+	margin: 0;
+	padding:0;
+	
+}
+
+#bg{
+	width: 1903px;
+	height: 560px;
+	background-image: url(../register/bg.png);
+	margin: 0 auto;
+}
+ 
+ #txt{
+	 width: 273px;
+	 height: 297px;
+	 background-color: rgba(0,0,0,0.3);
+	 padding: 10px;
+	 margin-left: 1400px;
+	 margin-top: 140px;
+	 
+ }
+ #txt>table{
+	 width: 100%;
+ }
+  #txt>table h4{
+	  font-size: 18px;
+	  color: #fff;
+	  margin-bottom: 10px;
+  }
+  #txt>table a {
+	  font-size: 12px;
+	  color: #fff;
+	  text-decoration: none;
+  }
+   #txt>table #uname,#upwd{
+	   width: 100%;
+	   padding:10px;
+	   box-sizing: border-box;
+	   margin: 20px 0 30px 0;
+	   border: 0;
+	   outline: 0;
+   }
+   
+  #txt>table #uname{
+	  background-image:url(../register/yhm.png) ;
+	  background-repeat: no-repeat;
+	  background-position: 97%;
+	  
+  } 
+  #txt>table #upwd{
+  	  background-image:url(../register/mm.png);
+  	  background-repeat: no-repeat;
+  	  background-position: 97%;
+  	  
+  } 
+  
+   #txt>table span{
+	   color:#fff;
+	   font-size: 12px;
+   }
+    #txt>table button{
+		width: 100%;
+		height: 37px;
+		background-color: #0aa1ed;
+		color: #fff;
+		outline: 0;
+		border: 0;
+	}

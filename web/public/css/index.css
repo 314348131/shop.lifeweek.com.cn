@@ -1,0 +1,136 @@
+a{
+	text-decoration:none;
+	    color: #333;
+	    padding: 0 6px;
+		font-size: 12px;
+}
+a:hover{
+	text-decoration:none;
+	color: #333;
+}
+
+
+#search{
+	width:80%;
+	height: 24px;
+	font-size: 12px;
+	border: 1px solid #ddd;
+	color:#807C79;
+	padding-left: 5px;
+	outline: none;
+	  float: right;
+	
+}
+.searchB{
+	   
+	    float: right;
+	    width: 31px;
+	    height: 24px;
+		outline: none;
+		right: 70px;
+	    border: 1px solid #ddd;
+	    cursor: pointer;
+	background: url(../img/search_go.gif)100% no-repeat;
+}
+.nav{
+	border-top:1px solid #ddd;
+	border-bottom:1px solid #ddd;
+	padding-left: 5px;
+}
+.nav a{
+	font-size: 14px;
+	padding: 4px 10px;
+	margin: 2px 10px;
+	color: #414141;
+	height: 29px;
+	line-height: 29px;
+}
+.nav a:hover{
+     color:#fff;
+	 background-color: #000;
+	 text-decoration:none;
+}
+.tit{
+	    border-bottom: 2px solid #000;
+}
+.firstA{
+	background-color: #000;
+	color: #fff;    
+	padding: 2px 6px;
+	border-radius: 2px;
+	font-size: 14px;
+}
+.firstA:hover{
+	color: #fff;
+	}
+
+.price1{
+	    font-size: 12px;
+	    text-decoration: line-through;
+	    color: #999;
+}
+.price{
+	    color: #ff7126;
+	    font-weight: bold;
+		font-size: 12px;
+}
+
+.title:hover{
+	color: #ff6600;
+	    text-decoration: none;
+}
+#footer{
+	border-top:1px solid #999;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+#footer ul{
+	list-style: none;
+	padding: 0;
+	width: 25%;
+}
+
+
+#footer ul>li:first-child a{
+	padding: 5px 5px;
+	font-weight: bold;
+	font-size: 16px;
+	    color: #666;
+}
+#footer .borderdiv{
+	height: 10px;
+	border: 1px solid #e2e2e2;
+}
+#footer p{
+	font-size: 10px;
+}
+
+.shopping h6{
+	    font-weight: bold;
+			 height: 23px;
+			 line-height: 23px;
+			 font-size: 12px;
+			 background: #f6f6f6;
+			 color: #3f3f3f;
+			 border: 1px solid #fff;
+			 padding-left: 10px;
+			    
+}
+
+.table{
+	 border: 1px solid #dee2e6;
+	  border-collapse:collapse;
+    text-align: center;
+		
+		vertical-align: inherit;
+		font-size: 14px;
+		color:#666;
+		font-weight: initial;
+}
+.table th,.table td{
+	color:#666;
+	font-weight: initial;
+	 text-align: center;
+	 vertical-align: inherit;
+}
+

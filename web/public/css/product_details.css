@@ -1,0 +1,86 @@
+.detatitle{
+	font-size: 12px;
+	border-bottom: 1px solid #ddd;
+}
+.navleft{
+	
+	border: 2px solid #871302;
+	margin: 0;
+	padding: 0;
+	
+}
+
+.navleft>li{
+	padding-left: 20px;
+	border-bottom: 1px solid #ddd;
+	list-style:none;
+	background: url(../img/biao4.gif) no-repeat 10px center;
+	font-size: 13px;
+	font-weight: bold;
+	height: 32px;
+	line-height: 32px;
+	
+}
+.navleft>li:first-child{
+    background: url(../img/category_tit.gif) repeat-x;
+	color:#fff;
+}
+
+.boxthead{
+	border: 1px solid #ddd;
+	padding: ;
+}
+.boxtop{
+    height: 31px;
+    line-height: 31px;
+    font-size: 12px;
+    background: url(../img/h3_bg.gif) repeat-x;
+    text-align: right;
+    padding: 0 12px;
+    font-weight: 100;
+	}
+.boxtop span{
+	float: left;
+	    height: 27px;
+	    line-height: 27px;
+	    text-align: left;
+	    font-weight: bold;
+	    color: #666;
+	    padding-left: 5px;
+}
+.nosearch{
+    width: 200px;
+    margin: 0 auto;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.onbg{
+	border: 2px solid #ff9900;
+}
+.message>div:first-child{
+	border-bottom:1px solid #ddd ;
+	    font-size: 14px;
+	    font-weight: bold;
+		
+}
+
+.message>div+div{
+	border-bottom:1px dashed #ddd ;
+	font-size: 12px;
+	padding: 7px 0px;
+	color:#666;
+}
+
+.message .msgprice{
+	    color: #ff7126;
+	    font-size: 14px;
+	    font-weight: 600;
+}
+
+.divmsg{
+	text-align: left;
+	font-size: 10px;
+	color:#666;
+	padding-left: 7px;
+}
